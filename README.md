@@ -2,7 +2,7 @@
 
 Create a personal GitHub wrapped using Quarto Dashboards
 
-![](schochastics.png)
+![](rmflight.png)
 
 ## Setup
 
